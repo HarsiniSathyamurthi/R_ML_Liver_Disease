@@ -1,0 +1,11 @@
+Copyright (c) 2025 Harsini Sathyamurthi
+
+This project was completed as part of the Master's program at the University of Western Australia (UWA). 
+
+All rights reserved.
+
+Unauthorised use, reproduction, or distribution of this code, in whole or in part, is strictly prohibited. This includes use in academic submissions, assignments, or any derivative works, particularly by students or others affiliated with educational institutions.
+
+Any use of this content without explicit written permission may constitute academic misconduct and/or copyright infringement.
+
+This repository is provided solely for showcasing personal work. It is not intended for instructional or reuse purposes.
